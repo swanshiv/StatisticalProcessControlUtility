@@ -1,0 +1,2 @@
+G:\WINBKP\VersaGageMonitor-2014-02-15\VersaGageMonitor\bin\Debug\VersaGageMonitor.exe.config
+C:\Users\shivranjan\Desktop\VersaGageMonitor-2014-02-15\VersaGageMonitor\bin\Debug\VersaGageMonitor.exe.config
